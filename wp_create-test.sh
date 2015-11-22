@@ -1,5 +1,6 @@
 
-#!/bin/bash 
+#!/bin/bash 4
+#Next step is to start including comments to explain the code
 clear
 echo "This script creates all the basic files for a Wordpress Set up. When done just  paste the folder in the themes folder of the wordpress install then do your stuff"
 sleep 2
