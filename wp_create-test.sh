@@ -2,7 +2,7 @@
 #!/bin/bash 4
 #Next step is to start including comments to explain the code
 clear
-echo "This script creates all the basic files for a Wordpress Set up. When done just  paste the folder in the themes folder of the wordpress install then do your stuff"
+echo "This script creates all the basic files for a Wordpress Set up used when slicing WP themes. When done just  paste the folder in the themes folder of the wordpress install then do your stuff"
 sleep 2
 clear
 echo "Please enter the name of the theme and press enter"
