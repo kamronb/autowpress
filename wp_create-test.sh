@@ -22,7 +22,7 @@ read theme_uri
 echo "Please enter your email or web address"
 read author_uri
 
-echo "Please enter a short desription of the them you are bulding"
+echo "Please enter a short desription of the theme you are bulding"
 read theme_description
 
 echo "/*Theme Name: "$theme_name > style.css
